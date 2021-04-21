@@ -1,0 +1,23 @@
+{
+  "font": {
+    "style": {
+      "body1": {
+        "fontFamily": {
+          "value": "Helvetica"
+        },
+        "fontWeight": {
+          "value": 400
+        },
+        "fontSize": {
+          "value": "1rem"
+        },
+        "lineHeight": {
+          "value": "1.5"
+        },
+        "letterSpacing": {
+          "value": "0.00938em"
+        }
+      }
+    }
+  }
+}

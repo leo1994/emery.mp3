@@ -1,0 +1,16 @@
+{
+  "name": "@leo1994/style-dictionary",
+  "version": "0.0.1",
+  "dependencies": {
+    "style-dictionary": "^2.10.3"
+  },
+  "files": [
+    "build",
+    "properties"
+  ],
+  "scripts": {
+    "build": "node ./build.js",
+    "clean": "rm -rf build"
+  }
+  
+}

@@ -1,0 +1,21 @@
+{
+  "color": {
+    "brand": {
+      "main": {
+        "value": "#2244FF"
+      },
+      "light": {
+        "value": "#CCD4FF"
+      },
+      "dark": {
+        "value": "#00158A"
+      },
+      "background": {
+        "value": "#CCD4FF"
+      },
+      "border": {
+        "value": "#2244FF"
+      }
+    }
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "color": {
+    "base": {
+      "black": {
+        "value": "#000000"
+      },
+      "white": {
+        "value": "#FFFFFF"
+      },
+      "gray": {
+        "light": {
+          "value": "#F1F2F3"
+        },
+        "semi-light": {
+          "value": "#CED1D5"
+        },
+        "regular": {
+          "value": "#A9AFB5"
+        },
+        "semi-dark": {
+          "value": "#747D86"
+        },
+        "dark": {
+          "value": "#42474D"
+        }
+      }
+    }
+  }
+}
