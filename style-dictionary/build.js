@@ -20,7 +20,7 @@ function getStyleDictionaryConfig(brand, platform) {
         "buildPath": `build/web/${brand}/`,
         "files": [{
           "destination": "color.js",
-          "format": "javascript/es6",
+          "format": "javascript/module",
           "filter": {
             "attributes": {
               "category": "color"
